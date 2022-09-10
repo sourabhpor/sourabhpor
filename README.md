@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sourabhpor
-- 👀 I’m interested in ...web development
+- 👀 I’m interested in ...front end web development
 - 🌱 I’m currently learning ...full stack course
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...sourabhporwal999@gmail.com
